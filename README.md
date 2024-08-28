@@ -1,5 +1,6 @@
 # -Predicting-Heart-Disease-Using-Clinical-Parameters
 Project Summary: Predicting Heart Disease Using Clinical Parameters
+
 Objective
 The primary goal of this project is to develop machine learning models that can predict whether a patient has heart disease based on 13 clinical parameters. The clinical parameters include age, sex, chest pain type, resting blood pressure, cholesterol levels, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression, slope of the ST segment, number of major vessels colored by fluoroscopy, and thalium stress test results. The target variable is a binary outcome indicating the presence or absence of heart disease.
 
